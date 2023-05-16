@@ -1,0 +1,17 @@
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\bin\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.exe
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\bin\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.deps.json
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\bin\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.runtimeconfig.json
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\bin\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.dll
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\bin\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.pdb
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\obj\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.csproj.AssemblyReference.cache
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\obj\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.Form1.resources
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\obj\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.csproj.GenerateResource.cache
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\obj\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\obj\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.AssemblyInfoInputs.cache
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\obj\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.AssemblyInfo.cs
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\obj\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.csproj.CoreCompileInputs.cache
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\obj\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.dll
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\obj\Debug\net6.0-windows\refint\Projeto_Somatório_dos_n_pares.dll
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\obj\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.pdb
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\obj\Debug\net6.0-windows\Projeto_Somatório_dos_n_pares.genruntimeconfig.cache
+C:\ws-C#\Projeto_Somatório_dos_n_pares\Projeto_Somatório_dos_n_pares\obj\Debug\net6.0-windows\ref\Projeto_Somatório_dos_n_pares.dll
